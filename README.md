@@ -15,6 +15,13 @@ I highly recommend trying this in a test environment prior to attempting to use 
 
 It would also be beneficial to check the wiki in this repo for detailed information on how this extension works, links to additional resources, etc. prior to attempting to use the Guacamole branding extension.
 
+## Downloading this custom Guacamole extension
+This should be as simple as:
+```
+wget https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/branding.jar?raw=true
+```
+Just take note of where it downloads to and its file name so you may easily find, modify and eventually place it in the proper place to implement it on the Guacamole server
+
 ## How-to modify the extension to customize the Apache Guacamole login screen
 I would first recommend looking at the default login page and using the developer tools in your browser to inspect the elements and CSS of the page. You can make tweaks using these tools and see the changes live without needing to commit to settings, alter the extension and implement the extension in Guacamole to see the results. Record your desired settings while doing so and use that as a guide when modifying the extension to your needs.
 
