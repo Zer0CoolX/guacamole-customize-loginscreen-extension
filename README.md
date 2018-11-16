@@ -5,7 +5,7 @@ This Apache Guacamole extension, in the form of a .jar file, is meant to act as 
 ### Default
 
 ### Using this extension unchanged (branding.jar)
-
+![custom-unchanged.png](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/demo-resource/guac-cust-unchanged.PNG)
 
 ### Having modified this extension as per the directions in the README/Wiki
 
