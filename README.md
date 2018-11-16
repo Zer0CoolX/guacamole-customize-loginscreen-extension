@@ -3,7 +3,7 @@ This Apache Guacamole extension, in the form of a .jar file, is meant to act as 
 
 # Examples of Login Pages
 ### Default
-
+![default-login.png](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/demo-resource/guac-default-login.PNG)
 ### Using this extension unchanged (branding.jar)
 ![custom-unchanged.png](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/demo-resource/guac-cust-unchanged.PNG)
 
