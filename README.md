@@ -11,7 +11,7 @@ This Apache Guacamole extension, in the form of a .jar file, is meant to act as 
 Other options may be perfectly valid. The benefit of using an extension (this one or another) to accomplish customizing the appearence of the login page in Apache Guacamole is that it should persist through updates/upgrades and can be easily re-implemented on additional Guacamole servers or in the event of needing to re-deploy an Apache Guacamole server with the same customized login screen. It is also easier to remove the customization if its no longer needed.
 
 ## Warnings
-I highly recommend trying this in a test environment prior to attempting to use it in production. Its potential impact on an existing Apache Guacamole should be nominal and easily reverible but its better safe than sorry. Additionally, having a Guacamole server with the default login screen could prove helpful for comparisions and testing.
+I highly recommend trying this in a test environment prior to attempting to use it in production. Its potential impact on an existing Apache Guacamole server should be nominal and easily reverible but its better safe than sorry. Additionally, having a Guacamole server with the default login screen could prove helpful for comparisions and testing.
 
 It would also be beneficial to check the wiki in this repo for detailed information on how this extension works, links to additional resources, etc. prior to attempting to use the Guacamole branding extension.
 
