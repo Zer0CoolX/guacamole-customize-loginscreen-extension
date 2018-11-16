@@ -2,12 +2,12 @@
 This Apache Guacamole extension, in the form of a .jar file, is meant to act as a template for customizing or branding the login screen to utilize different colors, wording and logo. As is, it has a default placeholder logo, wording and colors. These can be updated within the .jar file without needing to buid the whole extension from scratch.
 
 # Examples of Login Pages
-### Default
+### Default (not using this extension)
 ![default-login.png](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/demo-resource/guac-default-login.PNG)
 ### Using this extension unchanged (branding.jar)
 ![custom-unchanged.png](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/demo-resource/guac-cust-unchanged.PNG)
 
-### Having modified this extension as per the directions in the README/Wiki
+### Having modified this extension (branding.jar) as per the directions in the README/Wiki
 
 
 ## Why use this extension vs x, y or z other options?
