@@ -28,7 +28,7 @@ The internal file structure is basically:
 
 The css file is what changes things like the background colors, logo image used and other cosmetic changes to the page via CSS. The images folder just contains the logo file. I have only tested with a .png file. The .json file(s) in the translations folder dictate what text is displayed for the title (and according to what language). Lastly the guac-manifest.json basically ties all those parts together so Guacamole can use them to customize the login screen to the desired specifications.
 
-See this wiki page for more specific step-by-step examples.
+See this wiki page for more specific step-by-step examples. (coming soon)
 
 ## Steps to implement the extension to customize the Apache Guacamole login page
 Once the branding.jar extension is updated to the desired parameters, it needs to simply be placed in the extensions folder used by Guacamole. This may differ according to Distro, method of instllation and unique choices made when configuring the Apache Guacamole server.
