@@ -49,3 +49,5 @@ If the parameters within the branding.jar are correct and the extension is in th
 
 ## Conclusion
 This extension is meant to serve as a template for those looking to customize or brand the login page of an Apache Guacamole server. It does not alter any other aspect of the server. It does require a user to modify it to their needs which requires some base understandings like working with archive files, base CSS know-how, a working Apache Guacamole server (or the ability to set one up), etc.
+
+If newly implementing a Guacamole server from scratch on RHEL/CentOS 7.x or up, may I recommend an installation script I have written to help more easily do so with additional options for things like LDAP, SSL, etc. including support to install your custom extension (your hopefully modified branding.jar file from this repo). This script can be found at https://github.com/Zer0CoolX/guacamole-install-rhel
