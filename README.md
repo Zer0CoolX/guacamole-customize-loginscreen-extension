@@ -10,15 +10,15 @@ This Apache Guacamole extension, in the form of a .jar file, is meant to act as 
 ### Having modified this extension as per the directions in the README/Wiki
 
 
-# Why use this extension vs x, y or z other options?
+## Why use this extension vs x, y or z other options?
 
 
-# Steps to modify the extension to customize the Apache Guacamole login screen
+## Steps to modify the extension to customize the Apache Guacamole login screen
 
 
-# Steps to implement the extension to customize the Apache Guacamole login page
+## Steps to implement the extension to customize the Apache Guacamole login page
 
 
-# Conclusion
+## Conclusion
 
 
