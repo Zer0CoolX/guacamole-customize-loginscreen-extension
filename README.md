@@ -18,7 +18,7 @@ It would also be beneficial to check the wiki in this repo for detailed informat
 ## Downloading this custom Guacamole extension
 This should be as simple as:
 ```
-wget https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/blob/master/branding.jar
+wget https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/raw/master/branding.jar
 ```
 Just take note of where it downloads to and its file name so you may easily find, modify and eventually place it in the proper place to implement it on the Guacamole server
 
