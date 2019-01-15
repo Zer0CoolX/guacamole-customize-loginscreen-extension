@@ -46,8 +46,8 @@ See this wiki page for more specific step-by-step examples. (coming soon)
 ## Steps to implement the extension to customize the Apache Guacamole login page
 Once the branding.jar extension is updated to the desired parameters, it needs to be placed in the extensions folder used by Guacamole. This may differ according to Distro, method of installation and unique choices made when configuring the Apache Guacamole server:
 
-* On RHEL/CentOS 7.x implementations using Guacamole 0.9.14 or 1.0.0. (from Git) the branding.jar file should then be placed in `/var/lib/guacamole/extensions`.
-* On Debian 9 (Stretch/stable) implementations using Guacamole 0.9.14 (from Git) the branding.jar file should then be placed in  `/etc/guacamole/extensions/`.
+* On RHEL/CentOS 7.x implementations the branding.jar file should then be placed in `/var/lib/guacamole/extensions`.
+* On Debian 9 (Stretch/stable) implementations the branding.jar file should then be placed in  `/etc/guacamole/extensions/`.
 
 If using SELinux, you will likely need to set the proper context on the extension for it to work. As a baseline example this may be something like:
 ```
