@@ -59,7 +59,7 @@ After doing so restart at least the guacamole service:
 * On RHEL/CentOS 7.x and up : `systemctl restart guacd` 
 * On Debian 9 (Stretch/stable): `service guacd restart`
 
-It might not be a bad idea to restart Tomcat, MariaDB/MySQL and Nginx as well.
+It might not be a bad idea to restart Tomcat, MariaDB/MySQL, Nginx and guacd as well.
 
 Ensure the browser hasn't cached the old login page, if so clear the cache or try another method of accessing the site not previously used (another browser or another device).
 
