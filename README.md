@@ -41,8 +41,6 @@ The .json file(s) in the translations folder dictate what text is displayed for 
 
 Lastly the guac-manifest.json basically ties all those parts together so Guacamole can use them to customize the login screen to the desired specifications.
 
-See this wiki page for more specific step-by-step examples. (coming soon)
-
 ## Steps to implement the extension to customize the Apache Guacamole login page
 Once the branding.jar extension is updated to the desired parameters, it needs to be placed in the extensions folder used by Guacamole. This may differ according to Distro, method of installation and unique choices made when configuring the Apache Guacamole server:
 
