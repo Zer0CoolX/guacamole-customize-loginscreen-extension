@@ -15,6 +15,10 @@ I highly recommend trying this in a test environment prior to attempting to use 
 
 It would also be beneficial to check [the wiki in this repo](https://github.com/Zer0CoolX/guacamole-customize-loginscreen-extension/wiki) for detailed information on how this extension works, links to additional resources, etc. prior to attempting to use the Guacamole branding extension.
 
+I can __NOT__ help with modifying the extension. As such follow the readme, wiki post(s) and the thread the wiki links to for guidance to get started.
+
+__BEFORE ALL ELSE__ - attempt to load the extension __AS IS__, unmodified, to ensure it works __BEFORE__ trying to modify it.
+
 ## Downloading the extension
 This should be as simple as:
 ```
