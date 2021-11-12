@@ -1,0 +1,20 @@
+{
+       "guacamoleVersion" : "*",
+       "name" : "Tempname",
+       "namespace" : "tempnamespace",
+       "smallIcon" : "images/logo-64.png",
+       "largeIcon" : "images/logo-144.png",
+       "translations" : [ 
+             "translations/en.json"
+       ],
+
+       "css" : [
+               "css/login-override.css"
+        ],
+
+       "resources" : {
+               "images/logo-placeholder.png" : "image/png",
+               "images/logo-64.png" : "image/png",
+               "images/logo-144.png" : "image/png"
+        }
+}
