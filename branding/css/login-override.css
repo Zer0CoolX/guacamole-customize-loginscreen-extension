@@ -1,0 +1,41 @@
+/* This updates the overall css for guacamole, so you can define any existing 
+css properties to affect a change in the look and feel */
+
+/* Changes overall background color of page */
+body {
+    background: #ffffff;
+}
+
+/* Changes overall background color of headers */
+.header {
+    background: #757575;
+}
+
+/* Changes overall background color of login page  */
+div.login-ui {
+	background: #ffffff;
+	background-color: #ffffff;
+}
+
+/* Changes background color of login box and color of text */
+.login-ui .login-dialog {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+/* Changes logo displayed on login page */
+.login-ui .login-dialog .logo {
+        background-image: url('app/ext/tempnamespace/images/logo-placeholder.png');
+	width: 9em;
+	-webkit-background-size: 9em auto;
+}
+
+/* Changes size of text displayed under the logo on the login screen */
+.login-ui .login-dialog .version .app-name {
+    font-size: 1em;
+}
+
+/* Changes background color of button */
+input[type="submit"], button, a.button {
+    background-color: #000000;
+}
